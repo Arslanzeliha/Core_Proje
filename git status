@@ -1,0 +1,11 @@
+[33mcommit cb2020b9850e119830df590518f530ed1e8135ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Zeliha Arslan <arslanzeliha001@gmail.com>
+Date:   Fri Jun 7 15:08:30 2024 +0300
+
+    Proje dosyası ekle.
+
+[33mcommit c8d62b9c6b5bb64f8e20a24697fcb2f7e7fab0cd[m
+Author: Zeliha Arslan <arslanzeliha001@gmail.com>
+Date:   Fri Jun 7 15:08:28 2024 +0300
+
+    .gitattributes ve .gitignore ekleyin.
